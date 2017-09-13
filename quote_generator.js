@@ -10,7 +10,7 @@ $(document).ready(function() {
       }
     });
   });
-  $(".tweet").click(function() {
+  $(".share").click(function() {
     window.open(
       "https://twitter.com/intent/tweet?text=" +
         $("#quote").text() +
