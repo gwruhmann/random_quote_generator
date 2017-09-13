@@ -36,6 +36,7 @@ a:hover {
 .share {
   background: #00aced;
   margin: 4px 4px;
+  display: block;
 }
 
 .share:hover {
